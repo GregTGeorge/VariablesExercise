@@ -16,6 +16,7 @@ num += 7;
 num 
 
 // 6.
+num = "This is not a number"
 
 // 7.
 let blank;
